@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+.venv/
+.vscode/
+db/shoe_store.sqlite
+db/backups/*.sqlite
