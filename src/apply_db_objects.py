@@ -23,4 +23,4 @@ def apply_objects():
     print("[OK] Представления и триггеры успешно загружены в базу!")
 
 if __name__ == "__main__":
-    apply_objects()
+    apply_objects() 
